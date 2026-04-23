@@ -22,16 +22,16 @@ Predict the number of available bikes at test stations 3 hours ahead.
 ## 📊 Evaluation Metric
 The model is evaluated using Mean Absolute Error (MAE).
 
-📈 Results
-The model achieved a Mean Absolute Error (MAE) of:
-MAE = 2.989
-This means that, on average, the prediction error is around 3 bikes per station.
+📈 Results  
+The model achieved a Mean Absolute Error (MAE) of:  
+MAE = 2.989  
+This means that, on average, the prediction error is around 3 bikes per station.  
 
-💡 Interpretation
-This level of accuracy is relevant for real-world operations:
-It allows the company to anticipate station saturation or shortages
-It supports better planning of bike redistribution
-It improves user experience by providing reliable availability forecasts
+💡 Interpretation  
+This level of accuracy is relevant for real-world operations:  
+It allows the company to anticipate station saturation or shortages  
+It supports better planning of bike redistribution  
+It improves user experience by providing reliable availability forecasts  
 
 ```text
 MAE = average absolute difference between predicted and real bike availability
